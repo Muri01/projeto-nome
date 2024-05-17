@@ -5,6 +5,5 @@ function setup() {
   function draw() {
     background(220);
     text("formadores", 138, 184);
-    textSize(40);
     fill(color(97,224,97));
   }
